@@ -5,6 +5,9 @@
 
 This repository contains the implementation files of the main algorithms to find the shortest route between two cities. Search algorithms represent an important branch of Artificial Intelligence, widely used in practical applications in our daily lives, such as finding the shortest route on a GPS.
 
+![](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/readme-python-logo.jpg)
+![](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/readme-numpy-logo.jpg)
+
 ## Contents
 - [Installation](#installation)
 - [Contact](#contact)
