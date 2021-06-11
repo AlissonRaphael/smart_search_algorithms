@@ -1,12 +1,10 @@
 # Smart Search Algorithms
 
 [![GitHub](https://img.shields.io/github/license/AlissonRaphael/statistics_for_data_science_and_machine_learning)](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/LICENSE)
-[![Maintaner](https://img.shields.io/badge/Python-3.6-blue)](https://www.python.org/downloads/windows/)
+[![Node](https://img.shields.io/badge/Node.js-8.5.0-1abc9c.svg)](https://nodejs.org/en/)
 
 This repository contains the implementation files of the main algorithms to find the shortest route between two cities. Search algorithms represent an important branch of Artificial Intelligence, widely used in practical applications in our daily lives, such as finding the shortest route on a GPS.
 
-![](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/readme-python-logo.jpg)
-![](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/readme-numpy-logo.jpg)
 
 ## Contents
 - [Installation](#installation)
