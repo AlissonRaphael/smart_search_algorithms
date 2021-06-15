@@ -1,10 +1,11 @@
 # Smart Search Algorithms
 
-[![GitHub](https://img.shields.io/github/license/AlissonRaphael/statistics_for_data_science_and_machine_learning)](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/AlissonRaphael/smart_search_algorithms)](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/LICENSE)
 [![Node](https://img.shields.io/badge/Node.js-8.5.0-1abc9c.svg)](https://nodejs.org/en/)
 
 This repository contains the implementation files of the main algorithms to find the shortest route between two cities. Search algorithms represent an important branch of Artificial Intelligence, widely used in practical applications in our daily lives, such as finding the shortest route on a GPS.
 
+![](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/readme-javascript-logo.jpg)
 
 ## Contents
 - [Installation](#installation)
@@ -13,37 +14,37 @@ This repository contains the implementation files of the main algorithms to find
 
 
 ## Installation
-Requires at least python version 3.
+Requires at least Node.js version 8 or later.
 
 ### Windows:
 
-Download the Windows Installer directly from the website [python.org](https://www.python.org/downloads/windows/).
+Download the Windows Installer directly from the website [nodejs.org](https://nodejs.org/en/download/).
 
 or via package manager:
 
 __Using chocolatay__
 ```sh
-choco install python3 --pre
+choco install nodejs.install
 ```
 
 ### Linux:
 
-From Debian and Ubuntu based Linux distributions, Enterprise Linux/Fedora and Snap packages
+Download the linux binaries directly from the website [nodejs.org](https://nodejs.org/en/download/)
 
 __Install a binary package via pkg__:
 ```sh
-$ sudo apt-get install python3
+pkg install node
 ```
 
 ### macOS X:
 
-Download the macOS Installer directly from the website [python.org](https://www.python.org/downloads/mac-osx/).
+Download the macOS Installer directly from the website [nodejs.org](https://nodejs.org/en/download/).
 
 Via package manager:
 
 __Using brew__
 ```sh
-brew install python3
+brew install node
 ```
 
 
@@ -57,4 +58,4 @@ Clone this repo to your local machine using `https://github.com/AlissonRaphael/s
 
 ## License
 
-[![GitHub](https://img.shields.io/github/license/AlissonRaphael/statistics_for_data_science_and_machine_learning)](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/AlissonRaphael/smart_search_algorithms)](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/LICENSE)
