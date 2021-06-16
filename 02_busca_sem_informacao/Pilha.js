@@ -40,3 +40,5 @@ class Pilha {
   }
 
 }
+
+module.exports = Pilha

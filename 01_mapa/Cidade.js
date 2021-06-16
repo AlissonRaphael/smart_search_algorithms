@@ -3,11 +3,11 @@ class Cidade {
   constructor(nome){
     this.nome = nome
     this.visitado = false
-    this._adjacentes = []
+    this.adjacentes = []
   }
 
   adicionarAdjacente(cidade){
-    this._adjacentes.push(cidade)
+    this.adjacentes.push(cidade)
   }
 
 }
