@@ -7,11 +7,15 @@ This repository contains the implementation files of the main algorithms to find
 
 ![](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/readme-javascript-logo.jpg)
 
+
 ## Contents
+- [Mapa](#mapa)
 - [Installation](#installation)
 - [Contact](#contact)
 - [License](#license)
 
+## Mapa
+![](https://github.com/AlissonRaphael/smart_search_algorithms/blob/main/.github/mapa.jpg)
 
 ## Installation
 Requires at least Node.js version 8 or later.
